@@ -32,5 +32,5 @@ Yapılan testler sonucunda algoritmaların doğruluk oranları şöyledir:
 ![Confusion Matrix](confusion_matrix.png)
 
 ---
-**Hazırlayan:** [Adın SOYADIN] - [Öğrenci Numaran]
+**Hazırlayan:** Hüseyin Emre Karaçam - 23120303012
 **Ders Sorumlusu:** Dr. Öğr. Üyesi Muhammet Sinan BAŞARSLAN
